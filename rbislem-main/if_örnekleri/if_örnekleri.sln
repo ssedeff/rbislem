@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if_örnekleri", "if_örnekleri\if_örnekleri.csproj", "{0192E660-6980-4229-A09E-3980C0F765FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0192E660-6980-4229-A09E-3980C0F765FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0192E660-6980-4229-A09E-3980C0F765FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0192E660-6980-4229-A09E-3980C0F765FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0192E660-6980-4229-A09E-3980C0F765FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C52EF083-FC0F-495D-A534-DA64E21319F5}
+	EndGlobalSection
+EndGlobal

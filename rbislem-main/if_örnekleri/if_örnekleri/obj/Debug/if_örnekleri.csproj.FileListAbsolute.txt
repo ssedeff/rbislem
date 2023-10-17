@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10a\if_örnekleri\if_örnekleri\bin\Debug\if_örnekleri.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10a\if_örnekleri\if_örnekleri\bin\Debug\if_örnekleri.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\if_örnekleri\if_örnekleri\bin\Debug\if_örnekleri.pdb
+C:\Users\User\Desktop\KORUMASIZ\10a\if_örnekleri\if_örnekleri\obj\Debug\if_örnekleri.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\if_örnekleri\if_örnekleri\obj\Debug\if_örnekleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\if_örnekleri\if_örnekleri\obj\Debug\if_örnekleri.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\if_örnekleri\if_örnekleri\obj\Debug\if_örnekleri.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\if_örnekleri\if_örnekleri\obj\Debug\if_örnekleri.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\if_örnekleri\if_örnekleri\obj\Debug\if_örnekleri.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\if_örnekleri\if_örnekleri\obj\Debug\if_örnekleri.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\if_örnekleri\if_örnekleri\obj\Debug\if_örnekleri.pdb
